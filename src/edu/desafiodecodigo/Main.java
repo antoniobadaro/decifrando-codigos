@@ -1,4 +1,4 @@
-package edu.processoseletivo;
+package edu.desafiodecodigo;
 
 import java.util.Arrays;
 

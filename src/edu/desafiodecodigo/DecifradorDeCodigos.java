@@ -15,7 +15,7 @@
   numero a ser convertido em decimal: 1110
   resposta esperada : 14 (que é o valor em decimal)
   */
-package edu.processoseletivo;
+package edu.desafiodecodigo;
 import java.util.List;
 
 public class DecifradorDeCodigos {
